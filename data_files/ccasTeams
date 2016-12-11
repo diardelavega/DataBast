@@ -1,0 +1,164 @@
+{"s":"Blackburn Rovers","i":0}
+{"s":"Birmingham City","i":1}
+{"s":"Brighton \u0026 Hove Albion","i":2}
+{"s":"Sheffield Wednesday","i":3}
+{"s":"Cardiff City","i":4}
+{"s":"Leeds United","i":5}
+{"s":"Charlton Athletic","i":6}
+{"s":"Milton Keynes Dons","i":7}
+{"s":"Fulham","i":8}
+{"s":"Burnley","i":9}
+{"s":"Huddersfield Town","i":10}
+{"s":"Reading","i":11}
+{"s":"Nottingham Forest","i":12}
+{"s":"Preston North End","i":13}
+{"s":"Queens Park Rangers","i":14}
+{"s":"Derby County","i":15}
+{"s":"Rotherham United","i":16}
+{"s":"Middlesbrough","i":17}
+{"s":"Wolverhampton Wanderers","i":18}
+{"s":"Bristol City","i":19}
+{"s":"Bolton Wanderers","i":20}
+{"s":"Ipswich Town","i":21}
+{"s":"Floridsdorfer AC","i":22}
+{"s":"Austria Salzburg","i":31}
+{"s":"Liefering","i":23}
+{"s":"Wacker Innsbruck","i":24}
+{"s":"Wiener Neustadt","i":25}
+{"s":"Austria Klagenfurt","i":26}
+{"s":"St. Polten","i":27}
+{"s":"Kapfenberger SV","i":28}
+{"s":"LASK Linz","i":29}
+{"s":"Austria Lustenau","i":30}
+{"s":"Dalkurd","i":32}
+{"s":"AFC United","i":33}
+{"s":"Syrianska FC","i":34}
+{"s":"Orgryte","i":35}
+{"s":"Atvidaberg","i":36}
+{"s":"Frej","i":37}
+{"s":"Sirius","i":38}
+{"s":"Angelholm","i":39}
+{"s":"Trelleborg","i":40}
+{"s":"Assyriska","i":41}
+{"s":"Ljungskile","i":42}
+{"s":"Varberg","i":43}
+{"s":"Fredrikstad","i":44}
+{"s":"KFUM","i":45}
+{"s":"Hødd","i":46}
+{"s":"Asane","i":47}
+{"s":"Levanger","i":48}
+{"s":"Bryne","i":49}
+{"s":"Mjøndalen","i":50}
+{"s":"Kongsvinger","i":51}
+{"s":"Raufoss","i":52}
+{"s":"Ranheim","i":53}
+{"s":"Sandnes Ulf","i":54}
+{"s":"Strømmen","i":55}
+{"s":"Gwangju","i":56}
+{"s":"Jeonnam Dragons","i":57}
+{"s":"Sangju Sangmu","i":58}
+{"s":"Suwon","i":59}
+{"s":"Seoul","i":60}
+{"s":"Jeonbuk Motors","i":61}
+{"s":"Seongnam","i":62}
+{"s":"Jeju United","i":63}
+{"s":"Suwon Bluewings","i":64}
+{"s":"Pohang Steelers","i":65}
+{"s":"Ulsan","i":66}
+{"s":"Incheon United","i":67}
+{"s":"Brann","i":68}
+{"s":"Aalesund","i":69}
+{"s":"Brann","i":70}
+{"s":"Aalesund","i":71}
+{"s":"Athlone Town","i":72}
+{"s":"Limerick","i":73}
+{"s":"Cabinteely","i":74}
+{"s":"Waterford United","i":75}
+{"s":"Shelbourne","i":76}
+{"s":"Drogheda United","i":77}
+{"s":"Athlone Town","i":78}
+{"s":"Limerick","i":79}
+{"s":"Cabinteely","i":80}
+{"s":"Waterford United","i":81}
+{"s":"Shelbourne","i":82}
+{"s":"Drogheda United","i":83}
+{"s":"Rosenborg","i":84}
+{"s":"Haugesund","i":85}
+{"s":"Molde","i":86}
+{"s":"Sarpsborg 08","i":87}
+{"s":"Degerfors","i":88}
+{"s":"Varnamo","i":89}
+{"s":"Giravanz Kitakyushu","i":90}
+{"s":"Shimizu S-Pulse","i":91}
+{"s":"Pohang Steelers","i":92}
+{"s":"Rosenborg","i":93}
+{"s":"Haugesund","i":94}
+{"s":"Molde","i":95}
+{"s":"Sarpsborg 08","i":96}
+{"s":"Degerfors","i":97}
+{"s":"Orgryte","i":98}
+{"s":"Atvidaberg","i":99}
+{"s":"Ljungskile","i":100}
+{"s":"Syrianska FC","i":101}
+{"s":"Frej","i":102}
+{"s":"Dalkurd","i":103}
+{"s":"Varnamo","i":104}
+{"s":"Giravanz Kitakyushu","i":105}
+{"s":"Shimizu S-Pulse","i":106}
+{"s":"Jeonnam Dragons","i":107}
+{"s":"Suwon","i":108}
+{"s":"Pohang Steelers","i":109}
+{"s":"Incheon United","i":110}
+{"s":"Sangju Sangmu","i":111}
+{"s":"Gwangju","i":112}
+{"s":"Jeju United","i":113}
+{"s":"Suwon Bluewings","i":114}
+{"s":"Jeonbuk Motors","i":115}
+{"s":"Seoul","i":116}
+{"s":"Seongnam","i":117}
+{"s":"Cobh Ramblers","i":118}
+{"s":"UCD","i":119}
+{"s":"Drogheda United","i":120}
+{"s":"Suwon","i":121}
+{"s":"Jeonbuk Motors","i":122}
+{"s":"Seoul","i":123}
+{"s":"Seongnam","i":124}
+{"s":"Jeju United","i":125}
+{"s":"Cobh Ramblers","i":126}
+{"s":"Drogheda United","i":127}
+{"s":"Start","i":128}
+{"s":"Valerenga","i":129}
+{"s":"Odd","i":130}
+{"s":"Viking","i":131}
+{"s":"Sogndal","i":132}
+{"s":"Start","i":133}
+{"s":"Valerenga","i":134}
+{"s":"Odd","i":135}
+{"s":"Viking","i":136}
+{"s":"Sogndal","i":137}
+{"s":"Tromsø","i":138}
+{"s":"Stabæk","i":139}
+{"s":"Lillestrøm","i":140}
+{"s":"Strømsgodset","i":141}
+{"s":"Valerenga","i":142}
+{"s":"Halmstad","i":143}
+{"s":"Tokyo Verdy","i":144}
+{"s":"Matsumoto Yamaga","i":145}
+{"s":"Yokohama","i":146}
+{"s":"Mito Hollyhock","i":147}
+{"s":"Cerezo Osaka","i":148}
+{"s":"Renofa Yamaguchi","i":149}
+{"s":"Consadole Sapporo","i":150}
+{"s":"Shimizu S-Pulse","i":151}
+{"s":"Ehime","i":152}
+{"s":"JEF United","i":153}
+{"s":"Fagiano Okayama","i":154}
+{"s":"Kyoto Sanga","i":155}
+{"s":"Gifu","i":156}
+{"s":"Montedio Yamagata","i":157}
+{"s":"Gwangju","i":158}
+{"s":"Seongnam","i":159}
+{"s":"Incheon United","i":160}
+{"s":"Suwon","i":161}
+{"s":"GAIS","i":162}
+{"s":"Drogheda United","i":163}
